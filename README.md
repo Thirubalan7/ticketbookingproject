@@ -29,6 +29,9 @@ Access inventoryservice using API endpoint :http://localhost:8038/api/v1/invento
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/901fd890-b23f-400e-9bc6-812367b7435f" />
 
 
+Access Booking service using API endpoint :http://localhost:8081/api/v1/booking
+
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d92f1fa7-1fe7-4731-83da-3b49faf2b62d" />
 
 
 
