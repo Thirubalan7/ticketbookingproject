@@ -22,10 +22,13 @@ cd inventoryservice
 
 docker-compose up -d
 
-# Access Keycloak Admin Console
-http://localhost:8080
-# Default credentials: admin / admin
+run inventoryservice , bookingservice and orderservice
 
-# Access Booking API Gateway
-http://localhost:8081
+Access inventoryservice using API endpoint :http://localhost:8038/api/v1/inventory/event/1
+
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/901fd890-b23f-400e-9bc6-812367b7435f" />
+
+
+
+
 
